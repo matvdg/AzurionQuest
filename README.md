@@ -1,6 +1,8 @@
 # AzurionQuest
 C/SDL1.2 BrickBreaker game (Arkanoïd like) developed by Julien Sergent &amp; Mathieu Vandeginste (1st year IT students)
 
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/source/images/Assets/logo.png)
+
 
 AzurionQuest is a BrickBreaker game developed in C with the library SDL 1.2 by IT students in first year, Julien Sergent & Mathieu Vandeginste
 The terms AzurionQuest/BlackCrew are not registered trademarks as this is a fictionnal student project.
