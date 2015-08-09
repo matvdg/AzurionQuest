@@ -25,3 +25,4 @@ You can also find enclosed the MapEditor app built to design levels inclosed and
 ![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/5.png)
 ![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/6.png)
 
+For those who read this readme till the end, here a treat: in the home menu of AzurionQuest, press Q or P to get into special levels :D 
