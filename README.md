@@ -16,3 +16,11 @@ You can find description of the game and of the SF story in the manual (English 
 The game has been compiled for x86/x64 PC-Windows architectures within the setup.exe installator.
 
 You can also find enclosed the MapEditor app built to design levels inclosed and the MapEditor_Setup.exe to install it.
+
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/1.png)
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/2.png)
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/3.png)
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/4.png)
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/5.png)
+![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/6.png)
+
