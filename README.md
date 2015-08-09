@@ -11,11 +11,11 @@ The game is non commercial (MIT licence) but use graphics and sounds found on th
 so please be indulgent as it is, again, a student project with no commercial intention.
 We just want to share our code which is for sure quite dirty, but we're quite proud of the work accomplished. (More than 200h of coding)
 
-You can find description of the game and of the SF story in the manual (English & French) and some technical description in the technical documentations (English & French too) (PDF DOCS folder in the project)
+You can find description of the game and of the SF story below OR in the manual (English & French) and some technical description in the technical documentations (English & French too) (PDF DOCS folder in the project)
 
-The game has been compiled for x86/x64 PC-Windows architectures within the setup.exe installator.
+The game has been compiled for x86/x64 PC-Windows architectures within the setup.exe installator. (Link above)
 
-You can also find enclosed the MapEditor app built to design levels inclosed and the MapEditor_Setup.exe to install it.
+You can also find enclosed the MapEditor app built to design levels inclosed and the MapEditor_Setup.exe (Link above) to install it.
 
 ![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/1.png)
 ![alt tag](https://raw.githubusercontent.com/matvdg/AzurionQuest/master/manual/2.png)
